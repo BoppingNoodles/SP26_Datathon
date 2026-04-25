@@ -29,7 +29,7 @@ pip install -r requirements.txt
 - **Step 1: Capacity Gap** — Staffing and infrastructure analysis identifying which nonprofits have the least capacity to personalize donor outreach
 
 ## Key Findings
-- Orgs with 0–15 staff make up the majority of respondents and have the lowest technical capacity
-- Only 11% of 0–5 staff orgs have dedicated tech staff vs. 78% for 121+ staff orgs
-- Late Adopters (cluster 0) are the highest-opportunity segment — open to AI but not yet using it
-- Bias & Equity is the dominant AI concern across all org sizes
+- The smallest orgs (0–5 staff) are the **largest segment in the dataset** yet face the sharpest capacity constraints — the personalization problem is widespread, not niche
+- Small nonprofits face a **double constraint**: tech staffing gaps (11% vs 78% at 121+) and infrastructure gaps (cloud, data policies, agreements) compound each other
+- The bottleneck is **implementation, not evaluation** — the tech staff gap is steeper than the MERL staff gap, meaning small orgs can't operationalize AI even when they want to
+- **Bias & Equity** is the dominant AI concern, not cost or access — suggesting small orgs are worried about harming the communities they serve, not just about affordability
