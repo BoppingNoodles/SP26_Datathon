@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c \"import json; nb=json.load\\(open\\('main.ipynb'\\)\\); [print\\(repr\\(c['id']\\), repr\\(''.join\\(c['source']\\)[:200]\\)\\) for c in nb['cells'] if c['id']=='22772bb9']\")",
+      "Bash(python -c ' *)"
+    ]
+  }
+}
